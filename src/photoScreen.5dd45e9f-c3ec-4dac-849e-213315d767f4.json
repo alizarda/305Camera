@@ -568,7 +568,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "ADRIEL'S GIT CAMERA APP",
+                "Text": "ADRIEL'S CAMERA APP",
                 "FontSize": 18,
                 "Font": "Raleway",
                 "CustomFont": "",
@@ -625,7 +625,7 @@
                 "ParentId": "5dd45e9f-c3ec-4dac-849e-213315d767f4",
                 "position": "absolute",
                 "edgeOffsets": 111,
-                "children": "ADRIEL'S GIT CAMERA APP"
+                "children": "ADRIEL'S CAMERA APP"
             },
             "children": [],
             "id": "5905f4af-bcd8-47a1-a3e6-b65abfa1a090",
