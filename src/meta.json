@@ -240,7 +240,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
+                            "NSMicrophoneUsageDescription": ""
                         }
                     }
                 },
@@ -302,7 +302,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
+                            "NSMicrophoneUsageDescription": ""
                         }
                     }
                 },
