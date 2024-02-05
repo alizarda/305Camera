@@ -580,9 +580,9 @@
                 "Width": 312,
                 "Visible": true,
                 "X": 32,
-                "Y": 111,
+                "Y": 116,
                 "RelativeX": 32,
-                "RelativeY": 111,
+                "RelativeY": 116,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(255, 255, 255, 1)",
@@ -624,7 +624,7 @@
                 },
                 "ParentId": "5dd45e9f-c3ec-4dac-849e-213315d767f4",
                 "position": "absolute",
-                "edgeOffsets": 111,
+                "edgeOffsets": 116.00000000000001,
                 "children": "ADRIEL'S CAMERA APP"
             },
             "children": [],
