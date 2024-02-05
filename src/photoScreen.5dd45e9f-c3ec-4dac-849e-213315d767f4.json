@@ -1,4 +1,5 @@
 {
+    "id": "5dd45e9f-c3ec-4dac-849e-213315d767f4",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -35,7 +36,7 @@
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
         "TranslucentStatusBar": false,
-        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "StatusBarColor": "rgba(255, 0, 0, 0.53)",
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
@@ -468,7 +469,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "ADRIEL'S CAMERA APP",
+                "Text": "ADRIEL'S GIT CAMERA APP",
                 "FontSize": 18,
                 "Font": "Raleway",
                 "CustomFont": "",
@@ -476,8 +477,8 @@
                 "Color": "rgba(255, 255, 255, 1)",
                 "FontWeight": "normal",
                 "TextAlign": "center",
-                "Height": 26,
-                "Width": 310,
+                "Height": 28,
+                "Width": 312,
                 "Visible": true,
                 "X": 32,
                 "Y": 111,
@@ -525,7 +526,7 @@
                 "ParentId": "5dd45e9f-c3ec-4dac-849e-213315d767f4",
                 "position": "absolute",
                 "edgeOffsets": 111,
-                "children": "ADRIEL'S CAMERA APP"
+                "children": "ADRIEL'S GIT CAMERA APP"
             },
             "children": [],
             "id": "5905f4af-bcd8-47a1-a3e6-b65abfa1a090",
@@ -578,7 +579,6 @@
             "name": "logo"
         }
     ],
-    "id": "5dd45e9f-c3ec-4dac-849e-213315d767f4",
     "thunkableVersion": 442,
     "name": "photoScreen"
 }
